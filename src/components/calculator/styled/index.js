@@ -26,12 +26,12 @@ export const Screen = styled.div`
 `
 export const Previous = styled.div`
     color: rgba(255, 255, 255, 0.75);
-    font-size; 1.5rem;
+    font-size: 1.5rem;
 `
 
 export const Current = styled.div`
     color: white;
-    font-size; 2.5rem;
+    font-size: 2.5rem;
 `
 export const Button = styled.button`
     cursor: pointer;
